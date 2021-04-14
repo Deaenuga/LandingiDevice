@@ -1,0 +1,74 @@
+.feature {
+  animation: slide 3s;
+}
+
+.slider {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 6fr;
+  animation: slide 15s infinite;
+}
+
+.overlay {
+  color: #fff;
+  width: 100%;
+  height: 80em;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+@keyframes slide {
+  0% {
+    opacity: 0;
+    background-image: url(../img/test.svg);
+  }
+
+  20% {
+    opacity: 1;
+    background-image: url(../img/test.svg);
+  }
+  25% {
+    opacity: 0;
+    background-image: url(../img/test.svg);
+  }
+  25.1% {
+    opacity: 0;
+    background-image: url(../img/logo_iDevice.svg);
+  }
+
+  45% {
+    opacity: 1;
+    background-image: url(../img/logo_iDevice.svg);
+  }
+  50% {
+    opacity: 0;
+    background-image: url(../img/logo_iDevice.svg);
+  }
+  50.01% {
+    opacity: 0;
+    background-image: url(../img/slider1.svg);
+  }
+
+  70% {
+    opacity: 1;
+    background-image: url(../img/slider1.svg);
+  }
+  75% {
+    opacity: 0;
+    background-image: url(../img/slider1.svg);
+  }
+
+  75.01% {
+    opacity: 0;
+    background-image: url(../img/slider11.svg);
+  }
+
+  95% {
+    opacity: 1;
+    background-image: url(../img/slider11.svg);
+  }
+  100% {
+    opacity: 0;
+    background-image: url(../img/slider11.svg);
+  }
+}

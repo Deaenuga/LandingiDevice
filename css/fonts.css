@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "HelveticaHeavy"; 
+    src: url("../fonts/HelveticaNeueCyr-Heavy.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    }    
+@font-face {
+  font-family: "SFThin"; 
+  src: url("../fonts/SFProDisplay-Thin.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }   
+@font-face {
+  font-family: "SFLight"; 
+  src: url("../fonts/SFProDisplay-Light.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }  
+@font-face {
+  font-family: "HelveticaUltraLight"; 
+  src: url("../fonts/HelveticaNeueCyr-UltraLight.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }  
+@font-face {
+  font-family: "HelveticaLight"; 
+  src: url("../fonts/HelveticaNeueCyr-Light.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }    
+  @font-face {
+    font-family: "HelveticaRoman"; 
+    src: url("../fonts/HelveticaNeueCyr-Roman.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    }  
+@font-face {
+  font-family: "HelveticaBlack"; 
+  src: url("../fonts/Helvetica\ Neue\ Condensed\ Black.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  }   
+@font-face {
+  font-family: "HelveticaBold"; 
+  src: url("../fonts/HelveticaNeueCyr-Bold.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+  } 
